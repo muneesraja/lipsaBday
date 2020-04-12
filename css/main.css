@@ -1,28 +1,39 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-  
-body {
-    margin: 0;
-    font-family: Arial;
-    font-size: 1.8rem;
-    font-family: 'Quicksand', sans-serif;
-}
-  
-#myVideo {
-    right: 0;
-    bottom: 0;
-    min-width: 100%; 
-    min-height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.firstSecImg{
-    width: 30rem;
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 1.8rem;
+  font-family: "Quicksand", sans-serif;
+}
+
+#myVideo {
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.firstSec {
+  margin-top: 3rem;
+}
+
+.firstSecImg {
+  width: 30rem;
 }
 
 .secondSec {
-    height: 30rem;
-    background-color: black;
+  margin-top: 3rem;
+  height: 35rem;
+  background-color: black;
+  color: white;
+}
+
+.secondSecImg {
+  width: 20rem;
+  border-radius: 30%;
 }
