@@ -21,3 +21,8 @@ body {
 .firstSecImg{
     width: 30rem;
 }
+
+.secondSec {
+    height: 30rem;
+    background-color: black;
+}
